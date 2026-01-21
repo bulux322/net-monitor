@@ -60,7 +60,7 @@ internet-monitor/
 ├── templates/
 │   └── index.html
 │
-└── static/
+└── static/ (optional kalo mau pisahin style/script)
     ├── style.css
     └── main.js
 ```
