@@ -1,5 +1,5 @@
 
-<img width="521" height="448" alt="Untitled4" src="https://github.com/user-attachments/assets/6f3a2a25-951f-4274-87b8-e33b5171f2f0" />
+![Screenshot_21-1-2026_141542_localhost](https://github.com/user-attachments/assets/925a221b-7b97-403b-bffa-040ee7a4ba11)
 
 Di bawah ini gue bikinin **INSTALLATION & RUN GUIDE LENGKAP** (rapi + teknis).
 
