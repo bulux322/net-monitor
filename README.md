@@ -1,3 +1,5 @@
+Visit for Detail! : [PasteLkun](https://pastelkun.com/aplikasi-cek-ping-internet-terdetail-biar-isp-nggak-bisa-ngeles/) 
+
 
 ![Screenshot_21-1-2026_141542_localhost](https://github.com/user-attachments/assets/925a221b-7b97-403b-bffa-040ee7a4ba11)
 
