@@ -68,6 +68,16 @@ internet-monitor/
 ---
 
 # 📦 INSTALLATION
+1️⃣ Pastikan eventlet benar-benar dipakai
+Install ulang (penting)
+```pip install eventlet```
+
+1️⃣ Install Dependency
+```pip install flask flask-socketio eventlet requests```
+
+Lanjut
+
+```pip freeze > requirements.txt```
 
 ## 1️⃣ Clone / Copy Project
 
