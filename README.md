@@ -259,3 +259,5 @@ Project ini:
 * ✅ Sudah **network monitoring tool**
 * ✅ Cocok buat gamer, ISP complain, NOC
 * ✅ Kuat buat portfolio
+
+Visit for Detail! : [PasteLkun](https://pastelkun.com/aplikasi-cek-ping-internet-terdetail-biar-isp-nggak-bisa-ngeles/) 
